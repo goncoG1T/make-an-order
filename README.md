@@ -15,7 +15,7 @@ Segue a lógica de inserção de pedidos em um sistema de compras pelo operador,
 PS: Este programa está configurado como Locale US ou seja, caso deseje digitar casas decimais é necessário utilizar "." no lugar de ",".
  Digite *99.99*, em vez de *99,99*.
 
-4. O Programa lhe informará todos os dados do pedido e encerra o funcionamento (em próxima release fornecerá um arquivo com os dados).  
+4. O Programa lhe informará todos os dados do pedido, como valor total, data e hora, dados preenchidos e por fim encerra seu funcionamento (em próxima release fornecerá um arquivo com os dados).  
 ![image](https://user-images.githubusercontent.com/61762440/168167111-dce84676-4ef7-4a04-be3d-622431f3bcda.png)
 
 ## Como Rodar/Testar?

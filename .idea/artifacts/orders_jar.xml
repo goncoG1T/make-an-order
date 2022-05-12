@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="orders:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/orders_jar</output-path>
+    <root id="archive" name="orders.jar">
+      <element id="module-output" name="orders" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
